@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jawa-Timur.csv</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Kabupaten Bangkalan</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Bangkalan, Jawa Timur, Indonesia<br>Latitude: -7.04<br>Longitude: 112.74]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Bangkalan, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.04</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.74</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.74,-7.04,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Banyuwangi</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Banyuwangi, Jawa Timur, Indonesia<br>Latitude: -8.219<br>Longitude: 114.369]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Banyuwangi, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-8.219</value>
+        </Data>
+        <Data name="Longitude">
+          <value>114.369</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          114.369,-8.219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Blitar</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Blitar, Jawa Timur, Indonesia<br>Latitude: -8.1<br>Longitude: 112.17]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Blitar, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-8.1</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.17</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.17,-8.1,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Bojonegoro</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Bojonegoro, Jawa Timur, Indonesia<br>Latitude: -7.15<br>Longitude: 111.88]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Bojonegoro, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.15</value>
+        </Data>
+        <Data name="Longitude">
+          <value>111.88</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.88,-7.15,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Bondowoso</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Bondowoso, Jawa Timur, Indonesia<br>Latitude: -7.91<br>Longitude: 113.82]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Bondowoso, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.91</value>
+        </Data>
+        <Data name="Longitude">
+          <value>113.82</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          113.82,-7.91,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Gresik</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Gresik, Jawa Timur, Indonesia<br>Latitude: -7.155<br>Longitude: 112.65]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Gresik, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.155</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.65</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.65,-7.155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Jember</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Jember, Jawa Timur, Indonesia<br>Latitude: -8.17<br>Longitude: 113.7]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Jember, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-8.17</value>
+        </Data>
+        <Data name="Longitude">
+          <value>113.7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          113.7,-8.17,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Jombang</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Jombang, Jawa Timur, Indonesia<br>Latitude: -7.545<br>Longitude: 112.233]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Jombang, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.545</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.233</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.233,-7.545,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Kediri</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Kediri, Jawa Timur, Indonesia<br>Latitude: -7.82<br>Longitude: 112.19]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Kediri, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.82</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.19</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.19,-7.82,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Lamongan</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Lamongan, Jawa Timur, Indonesia<br>Latitude: -7.12<br>Longitude: 112.41]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Lamongan, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.12</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.41</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.41,-7.12,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Lumajang</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Lumajang, Jawa Timur, Indonesia<br>Latitude: -8.13<br>Longitude: 113.22]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Lumajang, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-8.13</value>
+        </Data>
+        <Data name="Longitude">
+          <value>113.22</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          113.22,-8.13,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Madiun</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Madiun, Jawa Timur, Indonesia<br>Latitude: -7.62<br>Longitude: 111.6]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Madiun, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.62</value>
+        </Data>
+        <Data name="Longitude">
+          <value>111.6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.6,-7.62,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Magetan</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Magetan, Jawa Timur, Indonesia<br>Latitude: -7.65<br>Longitude: 111.35]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Magetan, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.65</value>
+        </Data>
+        <Data name="Longitude">
+          <value>111.35</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.35,-7.65,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Malang</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Malang, Jawa Timur, Indonesia<br>Latitude: -8.17<br>Longitude: 112.63]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Malang, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-8.17</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.63</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.63,-8.17,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Mojokerto</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Mojokerto, Jawa Timur, Indonesia<br>Latitude: -7.5<br>Longitude: 112.43]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Mojokerto, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.5</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.43</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.43,-7.5,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Nganjuk</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Nganjuk, Jawa Timur, Indonesia<br>Latitude: -7.6<br>Longitude: 111.9]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Nganjuk, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.6</value>
+        </Data>
+        <Data name="Longitude">
+          <value>111.9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.9,-7.6,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Ngawi</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Ngawi, Jawa Timur, Indonesia<br>Latitude: -7.4<br>Longitude: 111.45]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Ngawi, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.4</value>
+        </Data>
+        <Data name="Longitude">
+          <value>111.45</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.45,-7.4,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Pacitan</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Pacitan, Jawa Timur, Indonesia<br>Latitude: -8.2<br>Longitude: 111.1]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Pacitan, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-8.2</value>
+        </Data>
+        <Data name="Longitude">
+          <value>111.1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.1,-8.2,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Pamekasan</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Pamekasan, Jawa Timur, Indonesia<br>Latitude: -7.16<br>Longitude: 113.48]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Pamekasan, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.16</value>
+        </Data>
+        <Data name="Longitude">
+          <value>113.48</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          113.48,-7.16,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Pasuruan</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Pasuruan, Jawa Timur, Indonesia<br>Latitude: -7.65<br>Longitude: 112.9]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Pasuruan, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.65</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.9,-7.65,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Ponorogo</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Ponorogo, Jawa Timur, Indonesia<br>Latitude: -7.87<br>Longitude: 111.46]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Ponorogo, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.87</value>
+        </Data>
+        <Data name="Longitude">
+          <value>111.46</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.46,-7.87,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Probolinggo</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Probolinggo, Jawa Timur, Indonesia<br>Latitude: -7.88<br>Longitude: 113.2]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Probolinggo, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.88</value>
+        </Data>
+        <Data name="Longitude">
+          <value>113.2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          113.2,-7.88,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Sampang</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Sampang, Jawa Timur, Indonesia<br>Latitude: -7.19<br>Longitude: 113.25]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Sampang, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.19</value>
+        </Data>
+        <Data name="Longitude">
+          <value>113.25</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          113.25,-7.19,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Sidoarjo</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Sidoarjo, Jawa Timur, Indonesia<br>Latitude: -7.45<br>Longitude: 112.72]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Sidoarjo, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.45</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.72</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.72,-7.45,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Situbondo</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Situbondo, Jawa Timur, Indonesia<br>Latitude: -7.7<br>Longitude: 114.0]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Situbondo, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.7</value>
+        </Data>
+        <Data name="Longitude">
+          <value>114.0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          114,-7.7,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Sumenep</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Sumenep, Jawa Timur, Indonesia<br>Latitude: -7.02<br>Longitude: 113.86]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Sumenep, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.02</value>
+        </Data>
+        <Data name="Longitude">
+          <value>113.86</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          113.86,-7.02,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Trenggalek</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Trenggalek, Jawa Timur, Indonesia<br>Latitude: -8.1<br>Longitude: 111.71]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Trenggalek, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-8.1</value>
+        </Data>
+        <Data name="Longitude">
+          <value>111.71</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.71,-8.1,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Tuban</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Tuban, Jawa Timur, Indonesia<br>Latitude: -6.9<br>Longitude: 112.05]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Tuban, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.9</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.05</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.05,-6.9,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Tulungagung</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kabupaten<br>Alamat: Kabupaten Tulungagung, Jawa Timur, Indonesia<br>Latitude: -8.07<br>Longitude: 111.9]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Tulungagung, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-8.07</value>
+        </Data>
+        <Data name="Longitude">
+          <value>111.9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.9,-8.07,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Batu</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kota<br>Alamat: Kota Batu, Jawa Timur, Indonesia<br>Latitude: -7.87<br>Longitude: 112.526]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Batu, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.87</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.526</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.526,-7.87,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Blitar</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kota<br>Alamat: Kota Blitar, Jawa Timur, Indonesia<br>Latitude: -8.0954<br>Longitude: 112.1609]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Blitar, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-8.0954</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.1609</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.1609,-8.0954,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Kediri</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kota<br>Alamat: Kota Kediri, Jawa Timur, Indonesia<br>Latitude: -7.848<br>Longitude: 112.0178]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Kediri, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.848</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.0178</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.0178,-7.848,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Madiun</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kota<br>Alamat: Kota Madiun, Jawa Timur, Indonesia<br>Latitude: -7.6298<br>Longitude: 111.53]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Madiun, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.6298</value>
+        </Data>
+        <Data name="Longitude">
+          <value>111.53</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          111.53,-7.6298,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Malang</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kota<br>Alamat: Kota Malang, Jawa Timur, Indonesia<br>Latitude: -7.9666<br>Longitude: 112.6326]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Malang, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.9666</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.6326</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.6326,-7.9666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Mojokerto</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kota<br>Alamat: Kota Mojokerto, Jawa Timur, Indonesia<br>Latitude: -7.4722<br>Longitude: 112.4339]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Mojokerto, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.4722</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.4339</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.4339,-7.4722,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Pasuruan</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kota<br>Alamat: Kota Pasuruan, Jawa Timur, Indonesia<br>Latitude: -7.6453<br>Longitude: 112.9075]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Pasuruan, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.6453</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.9075</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.9075,-7.6453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Probolinggo</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kota<br>Alamat: Kota Probolinggo, Jawa Timur, Indonesia<br>Latitude: -7.7543<br>Longitude: 113.2159]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Probolinggo, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.7543</value>
+        </Data>
+        <Data name="Longitude">
+          <value>113.2159</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          113.2159,-7.7543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Surabaya</name>
+      <description><![CDATA[Layer: Jawa Timur<br>Provinsi: Jawa Timur<br>Jenis: Kota<br>Alamat: Kota Surabaya, Jawa Timur, Indonesia<br>Latitude: -7.2575<br>Longitude: 112.7521]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Jawa Timur</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Surabaya, Jawa Timur, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.2575</value>
+        </Data>
+        <Data name="Longitude">
+          <value>112.7521</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          112.7521,-7.2575,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

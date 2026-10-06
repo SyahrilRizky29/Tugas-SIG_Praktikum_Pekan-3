@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DI-Yogyakarta.csv</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Kabupaten Bantul</name>
+      <description><![CDATA[Layer: DI Yogyakarta<br>Provinsi: DI Yogyakarta<br>Jenis: Kabupaten<br>Alamat: Kabupaten Bantul, DI Yogyakarta, Indonesia<br>Latitude: -7.888<br>Longitude: 110.328]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Bantul, DI Yogyakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.888</value>
+        </Data>
+        <Data name="Longitude">
+          <value>110.328</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.328,-7.888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Gunungkidul</name>
+      <description><![CDATA[Layer: DI Yogyakarta<br>Provinsi: DI Yogyakarta<br>Jenis: Kabupaten<br>Alamat: Kabupaten Gunungkidul, DI Yogyakarta, Indonesia<br>Latitude: -7.97<br>Longitude: 110.6]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Gunungkidul, DI Yogyakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.97</value>
+        </Data>
+        <Data name="Longitude">
+          <value>110.6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.6,-7.97,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Kulon Progo</name>
+      <description><![CDATA[Layer: DI Yogyakarta<br>Provinsi: DI Yogyakarta<br>Jenis: Kabupaten<br>Alamat: Kabupaten Kulon Progo, DI Yogyakarta, Indonesia<br>Latitude: -7.82<br>Longitude: 110.16]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Kulon Progo, DI Yogyakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.82</value>
+        </Data>
+        <Data name="Longitude">
+          <value>110.16</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.16,-7.82,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Sleman</name>
+      <description><![CDATA[Layer: DI Yogyakarta<br>Provinsi: DI Yogyakarta<br>Jenis: Kabupaten<br>Alamat: Kabupaten Sleman, DI Yogyakarta, Indonesia<br>Latitude: -7.715<br>Longitude: 110.355]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Sleman, DI Yogyakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.715</value>
+        </Data>
+        <Data name="Longitude">
+          <value>110.355</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.355,-7.715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Yogyakarta</name>
+      <description><![CDATA[Layer: DI Yogyakarta<br>Provinsi: DI Yogyakarta<br>Jenis: Kota<br>Alamat: Kota Yogyakarta, DI Yogyakarta, Indonesia<br>Latitude: -7.7956<br>Longitude: 110.3695]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>DI Yogyakarta</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Yogyakarta, DI Yogyakarta, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-7.7956</value>
+        </Data>
+        <Data name="Longitude">
+          <value>110.3695</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          110.3695,-7.7956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

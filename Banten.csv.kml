@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Banten.csv</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Kabupaten Lebak</name>
+      <description><![CDATA[Layer: Banten<br>Provinsi: Banten<br>Jenis: Kabupaten<br>Alamat: Kabupaten Lebak, Banten, Indonesia<br>Latitude: -6.5<br>Longitude: 106.25]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Banten</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Banten</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Lebak, Banten, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.5</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.25</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.25,-6.5,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Pandeglang</name>
+      <description><![CDATA[Layer: Banten<br>Provinsi: Banten<br>Jenis: Kabupaten<br>Alamat: Kabupaten Pandeglang, Banten, Indonesia<br>Latitude: -6.5<br>Longitude: 105.95]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Banten</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Banten</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Pandeglang, Banten, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.5</value>
+        </Data>
+        <Data name="Longitude">
+          <value>105.95</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          105.95,-6.5,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Serang</name>
+      <description><![CDATA[Layer: Banten<br>Provinsi: Banten<br>Jenis: Kabupaten<br>Alamat: Kabupaten Serang, Banten, Indonesia<br>Latitude: -6.17<br>Longitude: 106.2]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Banten</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Banten</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Serang, Banten, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.17</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.2,-6.17,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabupaten Tangerang</name>
+      <description><![CDATA[Layer: Banten<br>Provinsi: Banten<br>Jenis: Kabupaten<br>Alamat: Kabupaten Tangerang, Banten, Indonesia<br>Latitude: -6.268<br>Longitude: 106.482]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Banten</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Banten</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kabupaten</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kabupaten Tangerang, Banten, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.268</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.482</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.482,-6.268,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Cilegon</name>
+      <description><![CDATA[Layer: Banten<br>Provinsi: Banten<br>Jenis: Kota<br>Alamat: Kota Cilegon, Banten, Indonesia<br>Latitude: -6.0025<br>Longitude: 106.0111]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Banten</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Banten</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Cilegon, Banten, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.0025</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.0111</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.0111,-6.0025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Serang</name>
+      <description><![CDATA[Layer: Banten<br>Provinsi: Banten<br>Jenis: Kota<br>Alamat: Kota Serang, Banten, Indonesia<br>Latitude: -6.12<br>Longitude: 106.1503]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Banten</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Banten</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Serang, Banten, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.12</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.1503</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.1503,-6.12,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Tangerang</name>
+      <description><![CDATA[Layer: Banten<br>Provinsi: Banten<br>Jenis: Kota<br>Alamat: Kota Tangerang, Banten, Indonesia<br>Latitude: -6.1783<br>Longitude: 106.6319]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Banten</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Banten</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Tangerang, Banten, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.1783</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.6319</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.6319,-6.1783,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Tangerang Selatan</name>
+      <description><![CDATA[Layer: Banten<br>Provinsi: Banten<br>Jenis: Kota<br>Alamat: Kota Tangerang Selatan, Banten, Indonesia<br>Latitude: -6.2886<br>Longitude: 106.7179]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Layer">
+          <value>Banten</value>
+        </Data>
+        <Data name="Provinsi">
+          <value>Banten</value>
+        </Data>
+        <Data name="Jenis">
+          <value>Kota</value>
+        </Data>
+        <Data name="Alamat">
+          <value>Kota Tangerang Selatan, Banten, Indonesia</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.2886</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.7179</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.7179,-6.2886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
